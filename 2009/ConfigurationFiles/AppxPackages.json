@@ -1,5 +1,11 @@
 [
   {
+    "AppxPackage": "Microsoft.Microsoft3DViewer",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-gb/p/3d-viewer/9nblggh42ths",
+    "Description": "3D Viewer app"
+  },
+  {
     "AppxPackage": "Microsoft.BingNews",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-news/9wzdncrfhvfw",
@@ -42,6 +48,12 @@
     "Description": "Office UWP OneNote app"
   },
   {
+    "AppxPackage": "Microsoft.Messaging",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-gb/p/microsoft-messaging/9wzdncrfjbq6",
+    "Description": "Microsoft messaging app"
+  },
+  {
     "AppxPackage": "Microsoft.MicrosoftSolitaireCollection",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-solitaire-collection/9wzdncrfhwd2",
@@ -52,6 +64,12 @@
     "VDIState": "Enabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw",
     "Description": "Note-taking app"
+  },
+  {
+    "AppxPackage": "Microsoft.MixedReality.Portal",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-gb/p/mixed-reality-portal/9ng1h8b3zc7m",
+    "Description": "Mixed reality portal app"
   },
   {
     "AppxPackage": "Microsoft.Paint",
@@ -70,6 +88,12 @@
     "VDIState": "Disabled",
     "URL": "https://flow.microsoft.com/en-us/desktop/",
     "Description": "Power Automate Desktop app. Record desktop and web actions in a single flow"
+  },
+  {
+    "AppxPackage": "Microsoft.Print3D",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-gb/p/print-3d/9pbpch085s3s",
+    "Description": "Print 3D app"
   },
   {
     "AppxPackage": "Microsoft.ScreenSketch",
